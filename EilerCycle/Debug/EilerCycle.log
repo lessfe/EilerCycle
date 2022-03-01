@@ -1,0 +1,5 @@
+﻿  EilerCycle.cpp
+C:\Users\vladi\source\repos\EilerCycle\EilerCycle\EilerCycle.cpp(63,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vladi\source\repos\EilerCycle\EilerCycle\EilerCycle.cpp(156,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vladi\source\repos\EilerCycle\EilerCycle\EilerCycle.cpp(81): warning C4715: get_graphf: значение возвращается не при всех путях выполнения
+  EilerCycle.vcxproj -> C:\Users\vladi\source\repos\EilerCycle\Debug\EilerCycle.exe
